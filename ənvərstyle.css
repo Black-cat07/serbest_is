@@ -1,0 +1,151 @@
+.navbar{
+    display: flex;
+    margin-top: 20px;
+    justify-content: flex-end;
+    height: 100px;
+    width: 100%;
+}
+.enver{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+    left: -1070px;
+    position: relative;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    color: darkgray;
+}
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: darkgray;
+}
+button{
+    height: 50px;
+    width: 130px;
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-radius: 7px;
+    border: none;
+    margin-left: 50px;
+    margin-right: 70px;
+}
+.avatar{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 700px;
+}
+.avatar img{
+    height: 500px;
+    width: 500px;
+}
+.boz{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(193, 234, 250);
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px;
+    left: -60px;
+    position: relative;
+    display: flex;
+}
+.box1 i{
+    position: relative;
+    left: 34px;
+    top: 50px;
+    color: white;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 50px;
+    position: relative;
+    left: 10px;
+    display: flex;
+}
+.box2 i{
+    position: relative;
+    left: 34px;
+    top: 50px;
+    color: white;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50px;
+    position: relative;
+    left: 70px;
+    display: flex;
+}
+.box3 i{
+    position: relative;
+    left: 37px;
+    top: 50px;
+    color: white;
+}
+.boz1{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    background-color: rgb(193, 234, 250);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-evenly;
+}
+.şəkillər{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.kitab{
+    height: 350px;
+    width: 400px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.kitab1{
+    height: 550px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.kitablar{
+    height: 350px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.gul{
+    height: 550px;
+    width: 400px;
+    margin-left: 70px;
+    margin-top: -150px;
+}
+.kagız{
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.defter{
+    height: 550px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: -150px;
+}
